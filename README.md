@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+
+
+
+![200](https://github.com/kalimaty/animated_slide_show/assets/105967966/95204e33-355a-4268-be32-f7e4c0a26ea4)
+
+
+
+
+
+![300](https://github.com/kalimaty/animated_slide_show/assets/105967966/d026a99d-aafa-44f0-8744-4c4641206507)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
